@@ -14,7 +14,7 @@
     "websocket": "^1.0.30"
   },
   "devDependencies": {
-    "mocha": "^6.2.2"
+    "mocha": "^10.2.0"
   },
   "scripts": {
     "test": "mocha"
